@@ -1,71 +1,32 @@
-[00:00:02] [Server thread/INFO]: [whodisbee: Teleported Gamerman309 to 184.107289, 70.000000, 16.695128]
-[00:00:08] [Server thread/INFO]: Gamerman309 has made the advancement [Stone Age]
-[00:00:21] [Server thread/INFO]: n0rth1e has made the advancement [Getting an Upgrade]
-[00:01:54] [Server thread/INFO]: Gamerman309 has made the advancement [Getting an Upgrade]
-[00:03:22] [Server thread/INFO]: [whodisbee: Teleported Gamerman309 to 184.377169, 160.000000, 17.374049]
-[00:03:25] [Server thread/INFO]: Gamerman309 fell from a high place
-[00:03:42] [Server thread/INFO]: [whodisbee: Teleported Gamerman309 to n0rth1e]
-[00:07:42] [Server thread/INFO]: n0rth1e has made the advancement [Monster Hunter]
-[00:10:38] [Server thread/INFO]: whodisbee has made the advancement [Monster Hunter]
-[00:12:07] [Server thread/INFO]: Gamerman309 has made the advancement [Acquire Hardware]
-[00:12:07] [Server thread/INFO]: n0rth1e has made the advancement [Acquire Hardware]
-[00:12:28] [Server thread/INFO]: Gamerman309 has made the advancement [Isn't It Iron Pick]
-[00:12:29] [Server thread/INFO]: whodisbee has made the advancement [Acquire Hardware]
-[00:12:58] [Server thread/INFO]: whodisbee has made the advancement [Isn't It Iron Pick]
-[00:16:42] [Server thread/INFO]: n0rth1e has made the advancement [Isn't It Iron Pick]
-[00:18:29] [Server thread/INFO]: whodisbee has made the advancement [Diamonds!]
-[00:20:05] [Server thread/INFO]: n0rth1e has made the advancement [Diamonds!]
-[00:22:48] [Server thread/INFO]: whodisbee was slain by Cave Spider
-[00:23:16] [Server thread/INFO]: Gamerman309 has made the advancement [Diamonds!]
-[00:27:20] [Server thread/INFO]: whodisbee was shot by Skeleton
-[00:28:43] [Server thread/INFO]: n0rth1e has made the advancement [Suit Up]
-[00:32:32] [Server thread/INFO]: Gamerman309 has made the advancement [Suit Up]
-[00:34:53] [Server thread/INFO]: whodisbee has made the advancement [Suit Up]
-[00:36:25] [Server thread/INFO]: whodisbee has made the advancement [A Seedy Place]
-[00:38:37] [Server thread/INFO]: whodisbee was killed
-[00:38:37] [Server thread/INFO]: [whodisbee: Killed whodisbee]
-[00:41:32] [Server thread/INFO]: whodisbee has made the advancement [Fishy Business]
-[00:42:13] [Server thread/INFO]: n0rth1e has made the advancement [A Seedy Place]
-[00:44:38] [Server thread/INFO]: Gamerman309 has made the advancement [Monster Hunter]
-[00:49:35] [Server thread/INFO]: Gamerman309 has made the advancement [Not Today, Thank You]
-[00:50:01] [Server thread/INFO]: Gamerman309 has made the advancement [Ice Bucket Challenge]
-[00:53:17] [Server thread/INFO]: whodisbee has made the advancement [Hot Stuff]
-[00:56:30] [Server thread/INFO]: n0rth1e has made the advancement [The Parrots and the Bats]
-[01:02:29] [Server thread/INFO]: <n0rth1e> 230 70 20
-[01:03:38] [Server thread/INFO]: Gamerman309 has made the advancement [Take Aim]
-[01:07:46] [Server thread/INFO]: Gamerman309 has made the advancement [We Need to Go Deeper]
-[01:07:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2365ms or 47 ticks behind
-[01:07:48] [Server thread/INFO]: Gamerman309 has made the advancement [A Terrible Fortress]
-[01:12:25] [Server thread/INFO]: Gamerman309 fell from a high place
-[01:14:53] [Server thread/INFO]: Gamerman309 has made the advancement [A Seedy Place]
-[01:17:24] [Server thread/INFO]: whodisbee has made the advancement [We Need to Go Deeper]
-[01:17:25] [Server thread/INFO]: whodisbee has made the advancement [A Terrible Fortress]
-[01:17:48] [Server thread/INFO]: n0rth1e has made the advancement [We Need to Go Deeper]
-[01:17:49] [Server thread/INFO]: n0rth1e has made the advancement [A Terrible Fortress]
-[01:19:34] [Server thread/INFO]: whodisbee fell from a high place
-[01:21:08] [Server thread/INFO]: n0rth1e has made the advancement [Ice Bucket Challenge]
-[01:24:34] [Server thread/INFO]: whodisbee was slain by Zombie
-[01:25:36] [Server thread/INFO]: n0rth1e has made the advancement [Sweet Dreams]
-[01:26:28] [Server thread/INFO]: whodisbee was killed
-[01:26:28] [Server thread/INFO]: [whodisbee: Killed whodisbee]
-[01:26:53] [Server thread/INFO]: Gamerman309 has made the advancement [Into Fire]
-[01:26:55] [Server thread/INFO]: <n0rth1e> 24 67 14
-[01:34:17] [Server thread/INFO]: Gamerman309 lost connection: Disconnected
-[01:34:17] [Server thread/INFO]: Gamerman309 left the game
-[01:36:24] [Server thread/INFO]: whodisbee was killed
-[01:36:24] [Server thread/INFO]: [whodisbee: Killed whodisbee]
-[01:41:11] [Server thread/INFO]: whodisbee lost connection: Disconnected
-[01:41:11] [Server thread/INFO]: whodisbee left the game
-[01:49:36] [Server thread/INFO]: n0rth1e lost connection: Disconnected
-[01:49:36] [Server thread/INFO]: n0rth1e left the game
-[01:49:43] [Server thread/INFO]: Stopping the server
-[01:49:43] [Server thread/INFO]: Stopping server
-[01:49:43] [Server thread/INFO]: Saving players
-[01:49:43] [Server thread/INFO]: Saving worlds
-[01:49:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:49:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:49:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:49:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:49:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:49:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:49:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:05:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:05:20] [ServerMain/INFO]: Loaded 1370 recipes
+[10:05:20] [ServerMain/INFO]: Loaded 1481 advancements
+[10:05:20] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[10:05:20] [Server thread/INFO]: Loading properties
+[10:05:20] [Server thread/INFO]: Default game type: SURVIVAL
+[10:05:20] [Server thread/INFO]: Generating keypair
+[10:05:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:05:21] [Server thread/INFO]: Using default channel type
+[10:05:21] [Server thread/INFO]: Preparing level "world"
+[10:05:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:05:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:05:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:05:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:05:22] [Server thread/INFO]: Time elapsed: 1200 ms
+[10:05:22] [Server thread/INFO]: Done (1.377s)! For help, type "help"
+[10:06:04] [User Authenticator #1/INFO]: UUID of player n0rth1e is 90c12981-83c0-45a8-ab1a-6f318ac73c6d
+[10:06:04] [Server thread/INFO]: n0rth1e[/127.0.0.1:60870] logged in with entity id 44 at (245.68996134638428, 72.0, 25.7154082145362)
+[10:06:04] [Server thread/INFO]: n0rth1e joined the game
+[10:44:08] [Server thread/INFO]: n0rth1e lost connection: Disconnected
+[10:44:08] [Server thread/INFO]: n0rth1e left the game
+[10:44:13] [Server thread/INFO]: Stopping the server
+[10:44:13] [Server thread/INFO]: Stopping server
+[10:44:13] [Server thread/INFO]: Saving players
+[10:44:13] [Server thread/INFO]: Saving worlds
+[10:44:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:44:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:44:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:44:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:44:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:44:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:44:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
