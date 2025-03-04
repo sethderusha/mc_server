@@ -1,34 +1,89 @@
-[10:55:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[10:55:02] [ServerMain/INFO]: Loaded 1370 recipes
-[10:55:02] [ServerMain/INFO]: Loaded 1481 advancements
-[10:55:02] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[10:55:02] [Server thread/INFO]: Loading properties
-[10:55:02] [Server thread/INFO]: Default game type: SURVIVAL
-[10:55:02] [Server thread/INFO]: Generating keypair
-[10:55:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:55:02] [Server thread/INFO]: Using default channel type
-[10:55:02] [Server thread/INFO]: Preparing level "world"
-[10:55:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:55:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[10:55:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[10:55:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[10:55:03] [Server thread/INFO]: Time elapsed: 1058 ms
-[10:55:03] [Server thread/INFO]: Done (1.180s)! For help, type "help"
-[10:55:08] [User Authenticator #1/INFO]: UUID of player n0rth1e is 90c12981-83c0-45a8-ab1a-6f318ac73c6d
-[10:55:08] [Server thread/INFO]: n0rth1e[/127.0.0.1:61027] logged in with entity id 37 at (245.76212399716255, 72.0, 33.813106065627444)
-[10:55:08] [Server thread/INFO]: n0rth1e joined the game
-[10:58:07] [Server thread/INFO]: n0rth1e lost connection: Disconnected
-[10:58:07] [Server thread/INFO]: n0rth1e left the game
-[10:58:13] [Server thread/INFO]: Saving the game (this may take a moment!)
-[10:58:13] [Server thread/INFO]: Saved the game
-[10:58:15] [Server thread/INFO]: Stopping the server
-[10:58:15] [Server thread/INFO]: Stopping server
-[10:58:15] [Server thread/INFO]: Saving players
-[10:58:15] [Server thread/INFO]: Saving worlds
-[10:58:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10:58:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[10:58:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[10:58:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:58:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:58:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:58:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:01:27] [ServerMain/INFO]: Loaded 1370 recipes
+[00:01:28] [ServerMain/INFO]: Loaded 1481 advancements
+[00:01:28] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[00:01:28] [Server thread/INFO]: Loading properties
+[00:01:28] [Server thread/INFO]: Default game type: SURVIVAL
+[00:01:28] [Server thread/INFO]: Generating keypair
+[00:01:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:01:28] [Server thread/INFO]: Using default channel type
+[00:01:28] [Server thread/INFO]: Preparing level "world"
+[00:01:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:01:29] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:01:29] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:01:29] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:01:29] [Server thread/INFO]: Time elapsed: 1084 ms
+[00:01:29] [Server thread/INFO]: Done (1.195s)! For help, type "help"
+[00:01:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:01:39] [Server thread/INFO]: /tick rate 20<--[HERE]
+[00:01:44] [User Authenticator #1/INFO]: UUID of player n0rth1e is 90c12981-83c0-45a8-ab1a-6f318ac73c6d
+[00:01:45] [Server thread/INFO]: n0rth1e[/127.0.0.1:53583] logged in with entity id 44 at (258.5611979010195, 72.0, 9.618524262348831)
+[00:01:45] [Server thread/INFO]: n0rth1e joined the game
+[00:01:48] [User Authenticator #2/INFO]: UUID of player whodisbee is 06565e65-0841-4ca8-ac2e-9a6aab105e1b
+[00:01:48] [User Authenticator #3/INFO]: UUID of player Gamerman309 is 8dfc619d-0ffb-49f1-8937-6baecbddabb1
+[00:01:48] [Server thread/INFO]: whodisbee[/10.21.169.2:50874] logged in with entity id 404 at (137.89721416996684, 63.0, 49.552571058362254)
+[00:01:48] [Server thread/INFO]: whodisbee joined the game
+[00:01:49] [Server thread/INFO]: Gamerman309[/10.21.195.253:49624] logged in with entity id 485 at (143.51444562989644, -40.0, 134.9951190831141)
+[00:01:49] [Server thread/INFO]: Gamerman309 joined the game
+[00:01:52] [Server thread/INFO]: [n0rth1e: Set the target tick rate to 20.0 per second]
+[00:18:31] [Server thread/INFO]: [whodisbee: Kicked whodisbee: Kicked by an operator]
+[00:18:31] [Server thread/INFO]: whodisbee lost connection: Kicked by an operator
+[00:18:31] [Server thread/INFO]: whodisbee left the game
+[00:18:39] [User Authenticator #4/INFO]: UUID of player whodisbee is 06565e65-0841-4ca8-ac2e-9a6aab105e1b
+[00:18:39] [Server thread/INFO]: whodisbee[/10.21.169.2:50975] logged in with entity id 5826 at (134.11212800896703, 69.5, 48.43665190491223)
+[00:18:39] [Server thread/INFO]: whodisbee joined the game
+[00:35:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[01:07:57] [Server thread/INFO]: whodisbee tried to swim in lava
+[01:08:38] [Server thread/INFO]: whodisbee tried to swim in lava
+[01:09:39] [Server thread/INFO]: [whodisbee: Teleported whodisbee to 185.358066, 58.000000, 15.503805]
+[01:09:40] [Server thread/INFO]: whodisbee tried to swim in lava
+[01:27:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
+[01:28:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
+[01:29:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[01:29:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7966ms or 159 ticks behind
+[01:29:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6476ms or 129 ticks behind
+[01:30:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7715ms or 154 ticks behind
+[01:30:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5598ms or 111 ticks behind
+[01:31:01] [Server thread/INFO]: [Gamerman309: Teleported Gamerman309 to whodisbee]
+[01:32:18] [Server thread/INFO]: Gamerman309 has made the advancement [Local Brewery]
+[01:40:55] [Server thread/INFO]: Gamerman309 has reached the goal [Zombie Doctor]
+[01:47:42] [Server thread/INFO]: [whodisbee: Teleported Gamerman309 to whodisbee]
+[01:47:43] [Server thread/INFO]: [Gamerman309: Teleported Gamerman309 to whodisbee]
+[01:50:27] [Server thread/INFO]: Gamerman309 lost connection: Disconnected
+[01:50:27] [Server thread/INFO]: Gamerman309 left the game
+[01:51:51] [Server thread/INFO]: whodisbee lost connection: Disconnected
+[01:51:51] [Server thread/INFO]: whodisbee left the game
+[01:59:59] [Server thread/INFO]: [n0rth1e: Set own game mode to Spectator Mode]
+[02:00:18] [Server thread/INFO]: [n0rth1e: Set own game mode to Survival Mode]
+[02:06:03] [Server thread/INFO]: [n0rth1e: Set own game mode to Spectator Mode]
+[02:06:14] [Server thread/INFO]: [n0rth1e: Set own game mode to Creative Mode]
+[02:07:46] [Server thread/INFO]: [n0rth1e: Set own game mode to Survival Mode]
+[02:07:57] [Server thread/INFO]: [n0rth1e: Set own game mode to Spectator Mode]
+[02:08:17] [Server thread/INFO]: [n0rth1e: Set own game mode to Creative Mode]
+[02:08:40] [Server thread/INFO]: [n0rth1e: Set own game mode to Spectator Mode]
+[02:08:51] [Server thread/INFO]: [n0rth1e: Set own game mode to Creative Mode]
+[02:09:44] [Server thread/INFO]: [n0rth1e: Set own game mode to Survival Mode]
+[02:10:04] [Server thread/INFO]: [n0rth1e: Set own game mode to Spectator Mode]
+[02:10:19] [Server thread/INFO]: [n0rth1e: Set own game mode to Creative Mode]
+[02:12:01] [Server thread/INFO]: [n0rth1e: Set own game mode to Spectator Mode]
+[02:12:14] [Server thread/INFO]: [n0rth1e: Set own game mode to Creative Mode]
+[02:13:18] [Server thread/INFO]: [n0rth1e: Set own game mode to Survival Mode]
+[02:13:43] [Server thread/INFO]: [n0rth1e: Set own game mode to Spectator Mode]
+[02:14:02] [Server thread/INFO]: [n0rth1e: Set own game mode to Creative Mode]
+[02:14:19] [Server thread/INFO]: [n0rth1e: Set own game mode to Spectator Mode]
+[02:14:38] [Server thread/INFO]: [n0rth1e: Set own game mode to Survival Mode]
+[02:29:33] [Server thread/INFO]: n0rth1e has made the advancement [What a Deal!]
+[03:23:19] [Server thread/INFO]: n0rth1e lost connection: Disconnected
+[03:23:19] [Server thread/INFO]: n0rth1e left the game
+[03:24:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:06:56] [Server thread/INFO]: Stopping the server
+[11:06:56] [Server thread/INFO]: Stopping server
+[11:06:56] [Server thread/INFO]: Saving players
+[11:06:56] [Server thread/INFO]: Saving worlds
+[11:06:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:06:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11:06:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11:06:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:06:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:06:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:06:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

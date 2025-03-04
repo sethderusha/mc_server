@@ -31,8 +31,8 @@ done
 
 # Backup world and commit to GitHub
 echo "Backing up world..."
-git add "$WORLD_NAME"
-git commit -m "Auto-save: $(date)"
+git add .
+git commit -am "Auto-save: $(date)"
 git push origin main  # Change branch if necessary
 
 echo "Backup complete!"
