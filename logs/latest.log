@@ -1,99 +1,62 @@
-[02:49:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:49:32] [ServerMain/INFO]: Loaded 1370 recipes
-[02:49:32] [ServerMain/INFO]: Loaded 1481 advancements
-[02:49:32] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[02:49:32] [Server thread/INFO]: Loading properties
-[02:49:32] [Server thread/INFO]: Default game type: SURVIVAL
-[02:49:32] [Server thread/INFO]: Generating keypair
-[02:49:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:49:32] [Server thread/INFO]: Using default channel type
-[02:49:32] [Server thread/INFO]: Preparing level "world"
-[02:49:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:49:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:49:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:49:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:49:33] [Server thread/INFO]: Time elapsed: 1090 ms
-[02:49:33] [Server thread/INFO]: Done (1.217s)! For help, type "help"
-[02:49:35] [User Authenticator #1/INFO]: UUID of player n0rth1e is 90c12981-83c0-45a8-ab1a-6f318ac73c6d
-[02:49:36] [Server thread/INFO]: n0rth1e[/127.0.0.1:62509] logged in with entity id 8 at (141.85373901803928, -40.0, 133.69251390960173)
-[02:49:36] [Server thread/INFO]: n0rth1e joined the game
-[02:52:57] [Server thread/INFO]: [n0rth1e: Set the target tick rate to 200.0 per second]
-[02:52:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1107ms or 221 ticks behind
-[02:53:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21788ms or 4357 ticks behind
-[02:54:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21018ms or 4203 ticks behind
-[02:54:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20104ms or 4020 ticks behind
-[02:55:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19499ms or 3899 ticks behind
-[02:55:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20433ms or 4086 ticks behind
-[02:56:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23158ms or 4631 ticks behind
-[02:56:14] [Server thread/INFO]: Locating element minecraft:village_desert took 1114 ms
-[02:56:27] [Server thread/INFO]: Locating element minecraft:village_plains took 35 ms
-[02:56:43] [Server thread/INFO]: Locating element minecraft:village_savanna took 1030 ms
-[02:56:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25768ms or 5153 ticks behind
-[02:56:51] [Server thread/INFO]: Locating element minecraft:village_snowy took 251 ms
-[02:57:05] [Server thread/INFO]: Locating element minecraft:village_taiga took 3687 ms
-[02:57:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26881ms or 5376 ticks behind
-[02:57:38] [Server thread/INFO]: [n0rth1e: Set the target tick rate to 20.0 per second]
-[02:57:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5037ms or 100 ticks behind
-[02:58:50] [Server thread/INFO]: [n0rth1e: Set the target tick rate to 200.0 per second]
-[02:58:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1103ms or 220 ticks behind
-[02:59:16] [Server thread/INFO]: [n0rth1e: Teleported n0rth1e to 896.500000, -38.000000, 864.500000]
-[02:59:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19360ms or 3872 ticks behind
-[03:00:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 44653ms or 8930 ticks behind
-[03:00:25] [Server thread/INFO]: n0rth1e lost connection: Disconnected
-[03:00:25] [Server thread/INFO]: n0rth1e left the game
-[03:00:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[03:00:36] [Server thread/INFO]: Set the target tick rate to 20.0 per second
-[03:00:40] [User Authenticator #2/INFO]: UUID of player n0rth1e is 90c12981-83c0-45a8-ab1a-6f318ac73c6d
-[03:00:40] [Server thread/INFO]: n0rth1e[/127.0.0.1:62555] logged in with entity id 3874 at (908.4015577804311, -9.0, 860.0932850962605)
-[03:00:40] [Server thread/INFO]: n0rth1e joined the game
-[03:01:09] [Server thread/INFO]: [n0rth1e: Teleported n0rth1e to 896.500000, 60.000000, 864.500000]
-[03:02:09] [Server thread/INFO]: [n0rth1e: Set own game mode to Creative Mode]
-[03:03:41] [Server thread/INFO]: <n0rth1e> 19 83 10
-[03:03:47] [Server thread/INFO]: [n0rth1e: Teleported n0rth1e to 896.500000, 60.000000, 864.500000]
-[03:04:18] [Server thread/INFO]: [n0rth1e: Teleported n0rth1e to 896.500000, 60.000000, 864.500000]
-[03:14:10] [Server thread/INFO]: Villager coj['Farmer'/6447, l='ServerLevel[world]', x=19.30, y=83.00, z=61.70] died, message: 'Farmer burned to death'
-[03:17:11] [Server thread/INFO]: [n0rth1e: Set the target tick rate to 200.0 per second]
-[03:17:29] [Server thread/INFO]: n0rth1e has reached the goal [Zombie Doctor]
-[03:18:59] [Server thread/INFO]: Villager coj['Villager'/8075, l='ServerLevel[world]', x=187.50, y=68.00, z=16.30] died, message: 'Villager was slain by n0rth1e'
-[03:20:56] [Server thread/INFO]: [n0rth1e: Set the time to 1000]
-[03:22:46] [Server thread/INFO]: [n0rth1e: Set the time to 1000]
-[03:23:25] [Server thread/INFO]: [n0rth1e: Set the target tick rate to 20.0 per second]
-[03:23:52] [Server thread/INFO]: [n0rth1e: Set own game mode to Survival Mode]
-[03:25:23] [Server thread/INFO]: [n0rth1e: Gave 2 [Book] to n0rth1e]
-[03:27:02] [Server thread/INFO]: [n0rth1e: Gave 64 [Book] to n0rth1e]
-[03:27:09] [Server thread/INFO]: [n0rth1e: Set the target tick rate to 200.0 per second]
-[03:27:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1101ms or 220 ticks behind
-[03:28:13] [Server thread/INFO]: [n0rth1e: Gave 1 [Book] to n0rth1e]
-[03:28:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21125ms or 4225 ticks behind
-[03:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21520ms or 4304 ticks behind
-[03:29:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22174ms or 4434 ticks behind
-[03:29:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25606ms or 5121 ticks behind
-[03:30:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21669ms or 4333 ticks behind
-[03:30:34] [Server thread/INFO]: [n0rth1e: Gave 10 experience levels to n0rth1e]
-[03:31:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23153ms or 4630 ticks behind
-[03:31:03] [Server thread/INFO]: [n0rth1e: Gave 10 experience levels to n0rth1e]
-[03:31:32] [Server thread/INFO]: [n0rth1e: Applied enchantment Mending to n0rth1e's item]
-[03:31:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22751ms or 4550 ticks behind
-[03:32:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21488ms or 4297 ticks behind
-[03:32:06] [Server thread/INFO]: [n0rth1e: Applied enchantment Feather Falling IV to n0rth1e's item]
-[03:32:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22955ms or 4591 ticks behind
-[03:33:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22808ms or 4561 ticks behind
-[03:33:19] [Server thread/INFO]: [n0rth1e: Applied enchantment Looting I to n0rth1e's item]
-[03:33:37] [Server thread/INFO]: [n0rth1e: Applied enchantment Unbreaking III to n0rth1e's item]
-[03:33:43] [Server thread/INFO]: [n0rth1e: Applied enchantment Mending to n0rth1e's item]
-[03:33:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23040ms or 4608 ticks behind
-[03:34:08] [Server thread/INFO]: [n0rth1e: Set the target tick rate to 20.0 per second]
-[03:34:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9097ms or 181 ticks behind
-[03:37:30] [Server thread/INFO]: [n0rth1e: Stopping the server]
-[03:37:30] [Server thread/INFO]: Stopping server
-[03:37:30] [Server thread/INFO]: Saving players
-[03:37:30] [Server thread/INFO]: n0rth1e lost connection: Server closed
-[03:37:30] [Server thread/INFO]: n0rth1e left the game
-[03:37:30] [Server thread/INFO]: Saving worlds
-[03:37:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:37:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:37:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:37:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:37:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:37:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:37:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:26:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:26:12] [ServerMain/INFO]: Loaded 1370 recipes
+[13:26:12] [ServerMain/INFO]: Loaded 1481 advancements
+[13:26:12] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[13:26:12] [Server thread/INFO]: Loading properties
+[13:26:12] [Server thread/INFO]: Default game type: SURVIVAL
+[13:26:12] [Server thread/INFO]: Generating keypair
+[13:26:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:26:12] [Server thread/INFO]: Using default channel type
+[13:26:12] [Server thread/INFO]: Preparing level "world"
+[13:26:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:26:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:26:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:26:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:26:14] [Server thread/INFO]: Time elapsed: 1315 ms
+[13:26:14] [Server thread/INFO]: Done (1.456s)! For help, type "help"
+[13:26:51] [User Authenticator #1/INFO]: UUID of player n0rth1e is 90c12981-83c0-45a8-ab1a-6f318ac73c6d
+[13:26:52] [Server thread/INFO]: n0rth1e[/127.0.0.1:63758] logged in with entity id 6 at (143.60746986075273, -40.0, 133.23237567747836)
+[13:26:52] [Server thread/INFO]: n0rth1e joined the game
+[13:26:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
+[13:53:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=206, y=72, z=27} ji{x=206, y=75, z=29}
+[13:54:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=205, y=72, z=16} ji{x=208, y=72, z=16}
+[13:55:06] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=210, y=73, z=21} ji{x=210, y=72, z=22}
+[13:56:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=227, y=72, z=16} ji{x=242, y=72, z=17}
+[13:56:50] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=245, y=71, z=14} ji{x=256, y=72, z=14}
+[13:57:20] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=250, y=72, z=14} ji{x=249, y=72, z=14}
+[13:57:20] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=250, y=72, z=14} ji{x=249, y=72, z=14}
+[13:59:34] [Server thread/INFO]: n0rth1e lost connection: Disconnected
+[13:59:34] [Server thread/INFO]: n0rth1e left the game
+[14:00:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:17:27] [User Authenticator #2/INFO]: UUID of player n0rth1e is 90c12981-83c0-45a8-ab1a-6f318ac73c6d
+[14:17:28] [Server thread/INFO]: n0rth1e[/127.0.0.1:63991] logged in with entity id 7906 at (252.1942427454078, 72.0, 13.73089970537075)
+[14:17:28] [Server thread/INFO]: n0rth1e joined the game
+[14:27:48] [Server thread/INFO]: [n0rth1e: Set the target tick rate to 200.0 per second]
+[14:27:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1111ms or 222 ticks behind
+[14:28:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26031ms or 5206 ticks behind
+[14:29:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28811ms or 5762 ticks behind
+[14:29:08] [Server thread/INFO]: [n0rth1e: Set the target tick rate to 20.0 per second]
+[14:31:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=142, y=-40, z=99} ji{x=142, y=-40, z=100}
+[14:31:27] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=142, y=-40, z=114} ji{x=142, y=-40, z=115}
+[14:34:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[14:46:52] [Server thread/INFO]: [n0rth1e: Gave 128 [Redstone Dust] to n0rth1e]
+[14:51:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=20, y=84, z=109} ji{x=61, y=83, z=113}
+[15:03:50] [Server thread/INFO]: [n0rth1e: Gave 3 [Oak Sign] to n0rth1e]
+[15:09:17] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=256, y=71, z=10} ji{x=256, y=72, z=10}
+[15:09:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=256, y=71, z=10} ji{x=258, y=72, z=11}
+[15:12:15] [Server thread/INFO]: [n0rth1e: Gave 1 [Name Tag] to n0rth1e]
+[15:14:54] [Server thread/INFO]: n0rth1e lost connection: Disconnected
+[15:14:54] [Server thread/INFO]: n0rth1e left the game
+[15:15:06] [Server thread/INFO]: Saving the game (this may take a moment!)
+[15:15:06] [Server thread/INFO]: Saved the game
+[15:15:08] [Server thread/INFO]: Stopping the server
+[15:15:09] [Server thread/INFO]: Stopping server
+[15:15:09] [Server thread/INFO]: Saving players
+[15:15:09] [Server thread/INFO]: Saving worlds
+[15:15:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:15:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:15:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:15:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:15:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:15:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:15:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -441,7 +441,8 @@
       "cooked_mutton": "2025-03-03 10:42:38 -0500",
       "salmon": "2025-03-05 01:36:20 -0500",
       "cooked_beef": "2025-03-03 18:01:10 -0500",
-      "pumpkin_pie": "2025-03-03 19:09:44 -0500"
+      "pumpkin_pie": "2025-03-03 19:09:44 -0500",
+      "golden_carrot": "2025-03-05 15:14:49 -0500"
     },
     "done": false
   },
@@ -3455,6 +3456,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-03-05 03:17:29 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2025-03-05 03:35:04 -0500"
@@ -3482,12 +3489,6 @@
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-03-05 03:35:04 -0500"
-    },
-    "done": true
-  },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2025-03-05 03:17:29 -0500"
     },
     "done": true
   },
