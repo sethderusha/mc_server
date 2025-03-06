@@ -1,62 +1,125 @@
-[13:26:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:26:12] [ServerMain/INFO]: Loaded 1370 recipes
-[13:26:12] [ServerMain/INFO]: Loaded 1481 advancements
-[13:26:12] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[13:26:12] [Server thread/INFO]: Loading properties
-[13:26:12] [Server thread/INFO]: Default game type: SURVIVAL
-[13:26:12] [Server thread/INFO]: Generating keypair
-[13:26:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:26:12] [Server thread/INFO]: Using default channel type
-[13:26:12] [Server thread/INFO]: Preparing level "world"
-[13:26:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:26:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:26:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:26:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:26:14] [Server thread/INFO]: Time elapsed: 1315 ms
-[13:26:14] [Server thread/INFO]: Done (1.456s)! For help, type "help"
-[13:26:51] [User Authenticator #1/INFO]: UUID of player n0rth1e is 90c12981-83c0-45a8-ab1a-6f318ac73c6d
-[13:26:52] [Server thread/INFO]: n0rth1e[/127.0.0.1:63758] logged in with entity id 6 at (143.60746986075273, -40.0, 133.23237567747836)
-[13:26:52] [Server thread/INFO]: n0rth1e joined the game
-[13:26:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
-[13:53:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=206, y=72, z=27} ji{x=206, y=75, z=29}
-[13:54:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=205, y=72, z=16} ji{x=208, y=72, z=16}
-[13:55:06] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=210, y=73, z=21} ji{x=210, y=72, z=22}
-[13:56:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=227, y=72, z=16} ji{x=242, y=72, z=17}
-[13:56:50] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=245, y=71, z=14} ji{x=256, y=72, z=14}
-[13:57:20] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=250, y=72, z=14} ji{x=249, y=72, z=14}
-[13:57:20] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=250, y=72, z=14} ji{x=249, y=72, z=14}
-[13:59:34] [Server thread/INFO]: n0rth1e lost connection: Disconnected
-[13:59:34] [Server thread/INFO]: n0rth1e left the game
-[14:00:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:17:27] [User Authenticator #2/INFO]: UUID of player n0rth1e is 90c12981-83c0-45a8-ab1a-6f318ac73c6d
-[14:17:28] [Server thread/INFO]: n0rth1e[/127.0.0.1:63991] logged in with entity id 7906 at (252.1942427454078, 72.0, 13.73089970537075)
-[14:17:28] [Server thread/INFO]: n0rth1e joined the game
-[14:27:48] [Server thread/INFO]: [n0rth1e: Set the target tick rate to 200.0 per second]
-[14:27:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1111ms or 222 ticks behind
-[14:28:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26031ms or 5206 ticks behind
-[14:29:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28811ms or 5762 ticks behind
-[14:29:08] [Server thread/INFO]: [n0rth1e: Set the target tick rate to 20.0 per second]
-[14:31:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=142, y=-40, z=99} ji{x=142, y=-40, z=100}
-[14:31:27] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=142, y=-40, z=114} ji{x=142, y=-40, z=115}
-[14:34:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[14:46:52] [Server thread/INFO]: [n0rth1e: Gave 128 [Redstone Dust] to n0rth1e]
-[14:51:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=20, y=84, z=109} ji{x=61, y=83, z=113}
-[15:03:50] [Server thread/INFO]: [n0rth1e: Gave 3 [Oak Sign] to n0rth1e]
-[15:09:17] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=256, y=71, z=10} ji{x=256, y=72, z=10}
-[15:09:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=256, y=71, z=10} ji{x=258, y=72, z=11}
-[15:12:15] [Server thread/INFO]: [n0rth1e: Gave 1 [Name Tag] to n0rth1e]
-[15:14:54] [Server thread/INFO]: n0rth1e lost connection: Disconnected
-[15:14:54] [Server thread/INFO]: n0rth1e left the game
-[15:15:06] [Server thread/INFO]: Saving the game (this may take a moment!)
-[15:15:06] [Server thread/INFO]: Saved the game
-[15:15:08] [Server thread/INFO]: Stopping the server
-[15:15:09] [Server thread/INFO]: Stopping server
-[15:15:09] [Server thread/INFO]: Saving players
-[15:15:09] [Server thread/INFO]: Saving worlds
-[15:15:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:15:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:15:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:15:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:15:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:15:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:15:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:11:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:11:07] [ServerMain/INFO]: Loaded 1370 recipes
+[18:11:07] [ServerMain/INFO]: Loaded 1481 advancements
+[18:11:08] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[18:11:08] [Server thread/INFO]: Loading properties
+[18:11:08] [Server thread/INFO]: Default game type: SURVIVAL
+[18:11:08] [Server thread/INFO]: Generating keypair
+[18:11:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:11:08] [Server thread/INFO]: Using default channel type
+[18:11:08] [Server thread/INFO]: Preparing level "world"
+[18:11:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:11:09] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:11:09] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:11:09] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:11:09] [Server thread/INFO]: Time elapsed: 1166 ms
+[18:11:09] [Server thread/INFO]: Done (1.337s)! For help, type "help"
+[18:11:20] [User Authenticator #1/INFO]: UUID of player n0rth1e is 90c12981-83c0-45a8-ab1a-6f318ac73c6d
+[18:11:21] [Server thread/INFO]: n0rth1e[/127.0.0.1:49968] logged in with entity id 52 at (242.8564110451584, 72.0, 10.753629103218696)
+[18:11:21] [Server thread/INFO]: n0rth1e joined the game
+[18:11:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[18:22:46] [User Authenticator #2/INFO]: UUID of player Gamerman309 is 8dfc619d-0ffb-49f1-8937-6baecbddabb1
+[18:22:48] [Server thread/INFO]: Gamerman309[/10.21.195.253:64367] logged in with entity id 3384 at (142.38820407763941, -40.0, 130.37006456696994)
+[18:22:48] [Server thread/INFO]: Gamerman309 joined the game
+[18:27:53] [Server thread/INFO]: n0rth1e lost connection: Disconnected
+[18:27:53] [Server thread/INFO]: n0rth1e left the game
+[18:30:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[18:31:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2212ms or 44 ticks behind
+[19:42:43] [Server thread/INFO]: Gamerman309 lost connection: Disconnected
+[19:42:43] [Server thread/INFO]: Gamerman309 left the game
+[19:58:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:36:41] [Netty Server IO #5/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
+	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
+	at vu.a(SourceFile:26) ~[server-1.21.4.jar:?]
+	at vu.encode(SourceFile:12) ~[server-1.21.4.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi$2.write(SourceFile:530) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi.c(SourceFile:350) ~[server-1.21.4.jar:?]
+	at vi.b(SourceFile:343) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:325) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:319) ~[server-1.21.4.jar:?]
+	at vi.exceptionCaught(SourceFile:170) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[22:50:25] [User Authenticator #3/INFO]: UUID of player n0rth1e is 90c12981-83c0-45a8-ab1a-6f318ac73c6d
+[22:50:26] [Server thread/INFO]: n0rth1e[/127.0.0.1:51782] logged in with entity id 16632 at (145.28933098970148, -40.0, 136.22031456427646)
+[22:50:26] [Server thread/INFO]: n0rth1e joined the game
+[22:52:27] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=151, y=-41, z=46} ji{x=256, y=72, z=9}
+[22:53:01] [User Authenticator #4/INFO]: UUID of player whodisbee is 06565e65-0841-4ca8-ac2e-9a6aab105e1b
+[22:53:02] [Server thread/INFO]: whodisbee[/10.21.169.2:52728] logged in with entity id 17814 at (130.5, 63.0, 51.5)
+[22:53:02] [Server thread/INFO]: whodisbee joined the game
+[22:53:40] [User Authenticator #5/INFO]: UUID of player Gamerman309 is 8dfc619d-0ffb-49f1-8937-6baecbddabb1
+[22:53:40] [Server thread/INFO]: Gamerman309[/10.21.195.253:50713] logged in with entity id 18218 at (210.07028750504406, 74.0, 25.442757707354705)
+[22:53:40] [Server thread/INFO]: Gamerman309 joined the game
+[22:54:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2652ms or 53 ticks behind
+[22:54:33] [Server thread/WARN]: Gamerman309 moved too quickly! -9.691146153795017,-0.37673561378173304,-2.644029607748152
+[22:54:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2400ms or 48 ticks behind
+[22:58:31] [Server thread/INFO]: Gamerman309 lost connection: Disconnected
+[22:58:31] [Server thread/INFO]: Gamerman309 left the game
+[23:00:33] [User Authenticator #6/INFO]: UUID of player Gamerman309 is 8dfc619d-0ffb-49f1-8937-6baecbddabb1
+[23:00:34] [Server thread/INFO]: Gamerman309[/10.21.195.253:50845] logged in with entity id 20570 at (215.97166873983707, -9.0, 25.327631062481448)
+[23:00:34] [Server thread/INFO]: Gamerman309 joined the game
+[23:04:26] [Server thread/INFO]: whodisbee has made the advancement [What a Deal!]
+[23:15:07] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=250, y=67, z=32} ji{x=266, y=72, z=32}
+[23:32:33] [Server thread/INFO]: whodisbee lost connection: Disconnected
+[23:32:33] [Server thread/INFO]: whodisbee left the game
+[23:32:37] [Server thread/INFO]: Gamerman309 lost connection: Disconnected
+[23:32:37] [Server thread/INFO]: Gamerman309 left the game
+[23:32:47] [User Authenticator #7/INFO]: UUID of player Gamerman309 is 8dfc619d-0ffb-49f1-8937-6baecbddabb1
+[23:32:48] [Server thread/INFO]: Gamerman309[/10.21.195.253:51012] logged in with entity id 31318 at (144.30000001192093, -40.0, 136.068323021862)
+[23:32:48] [Server thread/INFO]: Gamerman309 joined the game
+[23:32:49] [User Authenticator #8/INFO]: UUID of player whodisbee is 06565e65-0841-4ca8-ac2e-9a6aab105e1b
+[23:32:49] [Server thread/INFO]: whodisbee[/10.21.169.2:52822] logged in with entity id 31390 at (136.49981338523204, -37.0, 122.90223912217748)
+[23:32:49] [Server thread/INFO]: whodisbee joined the game
+[23:40:46] [Server thread/INFO]: <Gamerman309> im lagging
+[23:40:50] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=260, y=72, z=9} ji{x=259, y=72, z=11}
+[23:40:58] [Server thread/INFO]: Gamerman309 lost connection: Disconnected
+[23:40:58] [Server thread/INFO]: Gamerman309 left the game
+[23:40:58] [Server thread/INFO]: whodisbee lost connection: Disconnected
+[23:40:58] [Server thread/INFO]: whodisbee left the game
+[23:41:04] [Server thread/INFO]: Saving the game (this may take a moment!)
+[23:41:04] [Server thread/INFO]: Saved the game
+[23:41:04] [User Authenticator #9/INFO]: UUID of player whodisbee is 06565e65-0841-4ca8-ac2e-9a6aab105e1b
+[23:41:05] [Server thread/INFO]: whodisbee[/10.21.169.2:52857] logged in with entity id 34284 at (258.3462549739114, 71.9375, 23.498783955559265)
+[23:41:05] [Server thread/INFO]: whodisbee joined the game
+[23:41:06] [Server thread/INFO]: Stopping the server
+[23:41:06] [Server thread/INFO]: Stopping server
+[23:41:06] [Server thread/INFO]: Saving players
+[23:41:06] [Server thread/INFO]: n0rth1e lost connection: Server closed
+[23:41:06] [Server thread/INFO]: n0rth1e left the game
+[23:41:06] [Server thread/INFO]: Saving worlds
+[23:41:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:41:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:41:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:41:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:41:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:41:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:41:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

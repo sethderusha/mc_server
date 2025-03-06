@@ -20,6 +20,7 @@
       "minecraft:swamp": "2025-03-03 00:09:06 -0500",
       "minecraft:birch_forest": "2025-03-03 00:06:55 -0500",
       "minecraft:windswept_hills": "2025-03-04 00:24:26 -0500",
+      "minecraft:savanna": "2025-03-05 23:02:37 -0500",
       "minecraft:plains": "2025-03-05 02:59:16 -0500"
     },
     "done": false
@@ -3531,6 +3532,24 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-03-05 03:35:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-05 23:05:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-05 23:23:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-05 23:23:16 -0500"
     },
     "done": true
   },

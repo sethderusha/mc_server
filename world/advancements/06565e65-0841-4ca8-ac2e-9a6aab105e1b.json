@@ -3305,15 +3305,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-03-05 01:30:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-03-05 01:30:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-03-05 01:34:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-03-05 01:35:27 -0500"
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "tamed_animal": "2025-03-05 01:37:14 -0500"
+      "has_log": "2025-03-05 01:35:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-03-05 01:36:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-03-05 01:36:21 -0500"
     },
     "done": true
   },
@@ -3322,12 +3352,6 @@
       "has_salmon": "2025-03-05 01:36:22 -0500"
     },
     "done": true
-  },
-  "minecraft:husbandry/whole_pack": {
-    "criteria": {
-      "minecraft:woods": "2025-03-05 01:37:14 -0500"
-    },
-    "done": false
   },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
@@ -3341,39 +3365,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_wither_rose": "2025-03-05 01:36:21 -0500"
+      "tamed_animal": "2025-03-05 01:37:14 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "minecraft:husbandry/whole_pack": {
     "criteria": {
-      "has_soul_sand": "2025-03-05 01:30:32 -0500"
+      "minecraft:woods": "2025-03-05 01:37:14 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-05 23:04:26 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
+  "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "has_log": "2025-03-05 01:35:27 -0500"
+      "has_melon": "2025-03-05 23:07:04 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+  "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "has_wither_rose": "2025-03-05 01:36:21 -0500"
+      "has_melon": "2025-03-05 23:07:04 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
+  "minecraft:recipes/building_blocks/melon": {
     "criteria": {
-      "has_soul_sand": "2025-03-05 01:30:32 -0500"
+      "has_melon": "2025-03-05 23:07:04 -0500"
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
-      "summoned": "2025-03-05 01:34:51 -0500"
+      "has_bamboo": "2025-03-05 23:11:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-03-05 23:11:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-03-05 23:11:51 -0500"
     },
     "done": true
   },
