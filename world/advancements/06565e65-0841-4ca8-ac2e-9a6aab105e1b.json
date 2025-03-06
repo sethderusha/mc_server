@@ -552,6 +552,7 @@
       "cooked_cod": "2025-03-03 00:44:35 -0500",
       "cooked_beef": "2025-03-03 21:07:10 -0500",
       "chorus_fruit": "2025-03-04 23:15:51 -0500",
+      "melon_slice": "2025-03-05 23:59:42 -0500",
       "pumpkin_pie": "2025-03-05 00:49:44 -0500"
     },
     "done": false
@@ -3416,6 +3417,30 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-03-05 23:11:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-06 00:10:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-06 00:10:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-06 00:10:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-03-06 00:13:49 -0500"
     },
     "done": true
   },
