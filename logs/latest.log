@@ -1,70 +1,15 @@
-[00:26:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:26:36] [ServerMain/INFO]: Loaded 1370 recipes
-[00:26:36] [ServerMain/INFO]: Loaded 1481 advancements
-[00:26:36] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[00:26:36] [Server thread/INFO]: Loading properties
-[00:26:36] [Server thread/INFO]: Default game type: SURVIVAL
-[00:26:36] [Server thread/INFO]: Generating keypair
-[00:26:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:26:36] [Server thread/INFO]: Using default channel type
-[00:26:36] [Server thread/INFO]: Preparing level "world"
-[00:26:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:26:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[00:26:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[00:26:37] [Server thread/INFO]: Time elapsed: 943 ms
-[00:26:37] [Server thread/INFO]: Done (1.065s)! For help, type "help"
-[00:26:50] [User Authenticator #1/INFO]: UUID of player Gamerman309 is 8dfc619d-0ffb-49f1-8937-6baecbddabb1
-[00:26:52] [Server thread/INFO]: Gamerman309[/10.21.195.253:51265] logged in with entity id 64 at (203.83596474793177, 59.07990864690962, -17.827836012358144)
-[00:26:52] [Server thread/INFO]: Gamerman309 joined the game
-[00:26:53] [User Authenticator #2/INFO]: UUID of player whodisbee is 06565e65-0841-4ca8-ac2e-9a6aab105e1b
-[00:26:54] [Server thread/INFO]: whodisbee[/10.21.169.2:53180] logged in with entity id 345 at (124.35329027000208, 65.0, 77.78842497222776)
-[00:26:54] [Server thread/INFO]: whodisbee joined the game
-[00:27:09] [User Authenticator #3/INFO]: UUID of player n0rth1e is 90c12981-83c0-45a8-ab1a-6f318ac73c6d
-[00:27:09] [Server thread/INFO]: n0rth1e[/127.0.0.1:52315] logged in with entity id 411 at (181.11816632807705, 63.0, -5.977984092949756)
-[00:27:09] [Server thread/INFO]: n0rth1e joined the game
-[00:32:43] [Server thread/INFO]: Gamerman309 lost connection: Timed out
-[00:32:43] [Server thread/INFO]: Gamerman309 left the game
-[00:32:49] [User Authenticator #4/INFO]: UUID of player Gamerman309 is 8dfc619d-0ffb-49f1-8937-6baecbddabb1
-[00:32:50] [Server thread/INFO]: Gamerman309[/10.21.195.253:51294] logged in with entity id 1926 at (249.141410346366, 64.0, 27.078711615234234)
-[00:32:50] [Server thread/INFO]: Gamerman309 joined the game
-[00:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
-[00:39:36] [Server thread/INFO]: whodisbee lost connection: Disconnected
-[00:39:36] [Server thread/INFO]: whodisbee left the game
-[00:40:08] [User Authenticator #5/INFO]: UUID of player whodisbee is 06565e65-0841-4ca8-ac2e-9a6aab105e1b
-[00:40:09] [Server thread/INFO]: whodisbee[/10.21.169.2:53220] logged in with entity id 4571 at (124.69999998807907, 36.0, 74.69999998807907)
-[00:40:09] [Server thread/INFO]: whodisbee joined the game
-[00:44:09] [Server thread/INFO]: whodisbee lost connection: Disconnected
-[00:44:10] [Server thread/INFO]: whodisbee left the game
-[00:44:15] [User Authenticator #6/INFO]: UUID of player whodisbee is 06565e65-0841-4ca8-ac2e-9a6aab105e1b
-[00:44:16] [Server thread/INFO]: whodisbee[/10.21.169.2:53237] logged in with entity id 6257 at (136.4679445257953, 38.0, 72.56579960417045)
-[00:44:16] [Server thread/INFO]: whodisbee joined the game
-[00:45:11] [Server thread/INFO]: [Gamerman309: Teleported Gamerman309 to n0rth1e]
-[00:46:41] [Server thread/INFO]: Gamerman309 lost connection: Timed out
-[00:46:41] [Server thread/INFO]: Gamerman309 left the game
-[00:46:51] [User Authenticator #7/INFO]: UUID of player Gamerman309 is 8dfc619d-0ffb-49f1-8937-6baecbddabb1
-[00:46:52] [Server thread/INFO]: Gamerman309[/10.21.195.253:51345] logged in with entity id 7119 at (235.3236997058728, 66.0, 13.29374830416662)
-[00:46:52] [Server thread/INFO]: Gamerman309 joined the game
-[00:51:12] [Server thread/INFO]: whodisbee lost connection: Disconnected
-[00:51:12] [Server thread/INFO]: whodisbee left the game
-[00:51:17] [User Authenticator #8/INFO]: UUID of player whodisbee is 06565e65-0841-4ca8-ac2e-9a6aab105e1b
-[00:51:17] [Server thread/INFO]: whodisbee[/10.21.169.2:53265] logged in with entity id 8681 at (126.39909483159155, 38.0, 73.30000001192093)
-[00:51:17] [Server thread/INFO]: whodisbee joined the game
-[00:52:50] [Server thread/INFO]: [whodisbee] Pig, Horse, Chicken, Chicken, glenn, Fletcher, Glen, Mason, Farmer, Farmer, Librarian, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Item Frame, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Oak Boat, Item Frame, Minecart with Chest, Wolf, Glow Item Frame, Item Frame, Minecart with Chest, Minecart with Chest, Minecart with Chest, Minecart with Chest, Oak Boat, Chicken, Minecart with Chest, Pig, Minecart with Chest, Minecart with Chest, Minecart with Chest, Chicken, Pig, Chicken, Minecart with Chest, Chicken, Pig, Horse, Horse, Minecart with Chest, Chicken, Pig, Minecart with Chest, Wolf, Drowned, n0rth1e, Pig, Horse, Wolf, Egg, Egg, Egg, Drowned, Egg, Egg, Egg, Egg, Egg, Egg, Egg, Egg, Squid, Gamerman309, Egg, Egg, Egg, Creeper, Egg, Skeleton, Glow Ink Sac, Egg, Egg, Egg, Wheat, Squid, Egg, Zombie, Egg, Cobblestone, Skeleton, Bamboo, Bat, Egg, Creeper, Enderman, Egg, Bat, Egg, Egg, Egg, Kelp, Kelp, Kelp, Kelp, Kelp, Chicken, Cobblestone, Egg, Egg, Spider, Bat, Bee, Bee, Bat, Skeleton, whodisbee, Squid, Squid, Squid, Glow Squid, Cod, Bat, Creeper, Minecart with Chest, Minecart with Chest, Cod, Cod, Cod, Cod, Cod, Cod, Skeleton, Cod, Cod, Cod, Cod, Cod, Cod, Spider, Zombie, Chicken, Chicken, Chicken, Horse, Bat, Spider, Cod, Cod, Cod, Cod, Cod, Cod, Cod, Cod, Cod, Cod, Cod, Cod, Cod, Cod, Cod, Cod, Egg, Zombie, Glow Squid, Glow Squid, Glow Squid, Skeleton, Zombie, Zombie, Skeleton, Pig, Skeleton, Skeleton, Bat, Sheep, Zombie, Skeleton, Skeleton, Zombie, Zombie, Creeper, Zombie Villager, Bat, Bat, Skeleton, Creeper, Bat, Skeleton, Creeper, Creeper, Zombie, Squid, Squid, Egg, Skeleton, Skeleton, Glow Squid, Glow Squid, Glow Squid, Zombie, Zombie, Zombie, Zombie, Bat, Bat, Egg, Creeper, Creeper, Creeper, Spider, Bamboo, Skeleton, Skeleton, Zombie, Creeper, Kelp, Kelp, Kelp, Kelp, Kelp, Egg, Creeper, Creeper, Egg, Creeper, Creeper, Creeper, Creeper, Bat, Spider, Spider, Skeleton, Skeleton, Skeleton, Skeleton, Skeleton, Skeleton, Skeleton, Creeper, Skeleton, Spider, Stone, Skeleton, Zombie, Creeper, Creeper, Zombie, Creeper, Skeleton, Creeper, Bat, Skeleton, Skeleton, Creeper, Skeleton, Zombie, Skeleton, Creeper, Cod, Cod, Cod, Cod, Cod, Cod, Cod, Cod, Zombie Villager, Creeper, Skeleton, Bat, Creeper, Creeper, Bat, Bat, Bat, Bat, Skeleton, Skeleton, Creeper, Skeleton, Bat, Drowned, Skeleton, Zombie, Skeleton, Skeleton, Creeper, Creeper, Creeper, Creeper, Creeper, Bat, Bat, Squid, Squid, Skeleton, Bat, Bat, Bat
-[00:54:09] [Server thread/INFO]: [Gamerman309: Teleported Gamerman309 to n0rth1e]
-[01:00:17] [Server thread/INFO]: whodisbee lost connection: Disconnected
-[01:00:17] [Server thread/INFO]: whodisbee left the game
-[01:05:25] [Server thread/INFO]: Gamerman309 lost connection: Disconnected
-[01:05:25] [Server thread/INFO]: Gamerman309 left the game
-[01:08:23] [Server thread/INFO]: n0rth1e lost connection: Disconnected
-[01:08:23] [Server thread/INFO]: n0rth1e left the game
-[01:08:28] [Server thread/INFO]: Stopping the server
-[01:08:29] [Server thread/INFO]: Stopping server
-[01:08:29] [Server thread/INFO]: Saving players
-[01:08:29] [Server thread/INFO]: Saving worlds
-[01:08:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:08:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:08:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:08:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:08:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:08:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:08:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:42] [Server thread/INFO]: whodisbee lost connection: Disconnected
+[00:01:42] [Server thread/INFO]: whodisbee left the game
+[00:01:47] [Server thread/INFO]: n0rth1e lost connection: Disconnected
+[00:01:47] [Server thread/INFO]: n0rth1e left the game
+[00:01:53] [Server thread/INFO]: Stopping the server
+[00:01:53] [Server thread/INFO]: Stopping server
+[00:01:53] [Server thread/INFO]: Saving players
+[00:01:53] [Server thread/INFO]: Saving worlds
+[00:01:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:01:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:01:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:01:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:01:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:01:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:01:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

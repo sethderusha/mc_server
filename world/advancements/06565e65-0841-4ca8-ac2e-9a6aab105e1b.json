@@ -11,6 +11,7 @@
       "minecraft:beach": "2025-03-03 01:06:04 -0500",
       "minecraft:forest": "2025-03-02 23:49:53 -0500",
       "minecraft:taiga": "2025-03-04 20:19:03 -0500",
+      "minecraft:mangrove_swamp": "2025-03-06 23:49:59 -0500",
       "minecraft:deep_ocean": "2025-03-04 20:10:34 -0500",
       "minecraft:river": "2025-03-03 01:08:22 -0500",
       "minecraft:lukewarm_ocean": "2025-03-03 23:23:02 -0500",
@@ -553,7 +554,8 @@
       "cooked_beef": "2025-03-03 21:07:10 -0500",
       "chorus_fruit": "2025-03-04 23:15:51 -0500",
       "melon_slice": "2025-03-05 23:59:42 -0500",
-      "pumpkin_pie": "2025-03-05 00:49:44 -0500"
+      "pumpkin_pie": "2025-03-05 00:49:44 -0500",
+      "golden_carrot": "2025-03-06 23:09:58 -0500"
     },
     "done": false
   },
@@ -633,6 +635,7 @@
     "criteria": {
       "minecraft:blaze": "2025-03-05 00:34:43 -0500",
       "minecraft:skeleton": "2025-03-03 00:10:47 -0500",
+      "minecraft:phantom": "2025-03-06 23:55:41 -0500",
       "minecraft:zombified_piglin": "2025-03-05 00:40:14 -0500",
       "minecraft:witch": "2025-03-03 23:27:37 -0500",
       "minecraft:wither_skeleton": "2025-03-05 00:35:07 -0500",
@@ -3441,6 +3444,72 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-03-06 00:13:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-06 19:23:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-06 19:23:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-06 19:23:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-06 19:29:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-06 19:29:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-06 19:29:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-06 19:29:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-06 20:06:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-06 20:41:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-03-06 23:00:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-03-06 23:00:16 -0500"
     },
     "done": true
   },
