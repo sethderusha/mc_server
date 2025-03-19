@@ -19,7 +19,9 @@
       "minecraft:windswept_forest": "2025-03-03 00:51:01 -0500",
       "minecraft:ocean": "2025-03-03 00:05:34 -0500",
       "minecraft:jungle": "2025-03-03 00:52:42 -0500",
+      "minecraft:swamp": "2025-03-18 22:10:40 -0400",
       "minecraft:birch_forest": "2025-03-03 00:50:10 -0500",
+      "minecraft:windswept_hills": "2025-03-18 22:38:16 -0400",
       "minecraft:savanna": "2025-03-03 23:33:28 -0500",
       "minecraft:bamboo_jungle": "2025-03-18 00:50:24 -0400",
       "minecraft:windswept_savanna": "2025-03-03 01:08:29 -0500",
@@ -3606,9 +3608,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+  "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
-      "has_tuff_bricks": "2025-03-18 00:20:03 -0400"
+      "kill_pillager": "2025-03-17 23:30:29 -0400"
     },
     "done": true
   },
@@ -3618,75 +3620,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-03-18 00:51:52 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-03-18 00:51:52 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wind_charge": {
-    "criteria": {
-      "has_breeze_rod": "2025-03-18 01:14:43 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-03-18 00:20:03 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-03-18 00:52:15 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
-    "criteria": {
-      "has_tuff_bricks": "2025-03-18 00:20:03 -0400"
-    },
-    "done": true
-  },
-  "minecraft:adventure/whos_the_pillager_now": {
-    "criteria": {
-      "kill_pillager": "2025-03-17 23:30:29 -0400"
-    },
-    "done": true
-  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2025-03-18 00:03:15 -0400"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/jungle_sign": {
+  "minecraft:recipes/decorations/beehive": {
     "criteria": {
-      "has_planks": "2025-03-18 00:52:15 -0400"
+      "has_honeycomb": "2025-03-18 00:04:58 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
-      "has_tuff_bricks": "2025-03-18 00:20:03 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-03-18 00:29:32 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2025-03-18 00:52:15 -0400"
+      "has_honeycomb": "2025-03-18 00:04:58 -0400"
     },
     "done": true
   },
@@ -3696,57 +3644,33 @@
     },
     "done": true
   },
-  "minecraft:adventure/revaulting": {
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
     "criteria": {
-      "revaulting": "2025-03-18 01:08:07 -0400"
+      "has_tuff_bricks": "2025-03-18 00:20:03 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/beehive": {
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
     "criteria": {
-      "has_honeycomb": "2025-03-18 00:04:58 -0400"
+      "has_tuff_bricks": "2025-03-18 00:20:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-03-18 00:20:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-03-18 00:20:03 -0400"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-03-18 00:20:03 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2025-03-18 00:52:15 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-03-18 00:52:15 -0400"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-03-18 00:50:58 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-03-18 00:52:15 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/mace": {
-    "criteria": {
-      "has_heavy_core": "2025-03-18 01:09:24 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-03-18 00:29:32 -0400"
     },
     "done": true
   },
@@ -3768,6 +3692,72 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-18 00:29:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-18 00:29:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-03-18 00:50:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-03-18 00:51:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-03-18 00:51:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-18 00:52:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-03-18 00:52:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-03-18 00:52:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-03-18 00:52:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-18 00:52:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-03-18 00:52:15 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-03-18 00:52:15 -0400"
@@ -3780,21 +3770,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
-    "criteria": {
-      "has_honeycomb": "2025-03-18 00:04:58 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-18 00:52:15 -0400"
     },
     "done": true
   },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-03-18 01:08:07 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-03-18 01:08:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_heavy_core": "2025-03-18 01:09:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-03-18 01:14:43 -0400"
     },
     "done": true
   },
